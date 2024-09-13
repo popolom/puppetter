@@ -1,0 +1,48 @@
+[
+	{
+		"type": "1行テキスト",
+		"fieldname": "学校コード",
+		"fieldid": "field_0001",
+		"order": "1",
+		"sort": 0,
+		"title": 1
+	},
+	{
+		"type": "1行テキスト",
+		"fieldname": "学校種別",
+		"fieldid": "field_0002",
+		"order": "2",
+		"sort": 0,
+		"title": 0
+	},
+	{
+		"type": "テキスト",
+		"fieldname": "都道府県番号",
+		"fieldid": "field_0003",
+		"order": "3",
+		"sort": 0
+	},
+	{
+		"type": "1行テキスト",
+		"fieldname": "学校名",
+		"fieldid": "field_0004",
+		"order": "4",
+		"sort": 0,
+		"title": 0
+	},
+	{
+		"type": "数値",
+		"fieldname": "郵便番号",
+		"fieldid": "field_0005",
+		"order": "5",
+		"sort": 0,
+		"numbering": 0
+	},
+	{
+		"type": "住所",
+		"fieldname": "学校所在地",
+		"fieldid": "field_0006",
+		"order": "6",
+		"sort": 0
+	}
+]
